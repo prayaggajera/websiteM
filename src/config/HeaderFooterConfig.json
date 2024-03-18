@@ -1,0 +1,43 @@
+{
+    "logo": "CSIR-LOGO.png",
+    "nav_items": [
+        {
+            "title": "Home",
+            "url": "/"
+        },
+        {
+            "title": "About",
+            "url": "/about"
+        },
+        {
+            "title": "Research",
+            "url": "/research"
+        },
+        {
+            "title": "Publication",
+            "url": "/publication"
+        },
+        {
+            "title": "Team",
+            "url": "/team"
+        },
+        {
+            "title": "News",
+            "url": "/news"
+        }
+    ],
+    "footer_headline": "CSIR-Central Salt and Marine Chemicals Research Institute",
+    "footer_sub_headline": "ADSORPTION & MATERIAL RESEARCH GROUP",
+    "address": "Shree Gijubhai Badheka Rd, Takhteshwar, Vidhyanagar, Bhavnagar, Gujarat 364002",
+    "email": "govinds@csmcri.res.in",
+    "social_links": {
+        "google": "",
+        "facebook": "",
+        "linkedin": ""
+    },
+    "copyright": "Copyright © 2022 CSIR-CSMCRI. All rights reserved.",
+    "made_by": {
+        "name": "Malay Patoliya",
+        "url": "https://www.linkedin.com/in/malay-patoliya/"
+    }
+}

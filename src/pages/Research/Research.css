@@ -1,0 +1,42 @@
+.research {
+    /* border: 1px solid red; */
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--black-color);
+    text-align: justify;
+}
+
+.research_ul {
+    line-height: 1.6;
+    padding: 0;
+    margin: 20px 0 20px 20px;
+    list-style: square !important;
+    text-align: justify;
+}
+
+.sub_section{
+    /* border: 1px solid red; */
+    margin: 25px 0 0 0;
+}
+
+.sub_section__title{
+    font-size: 16px !important;
+    font-weight: bold !important;
+    color: var(--blue-color);
+    margin-bottom: 4px;
+}
+
+.sub_section__content {
+    font-size: 16px !important;
+    line-height: 1.6;
+    color: var(--black-color);
+    text-align: justify;
+}
+
+.sub_section__content ul{
+    line-height: 1.6;
+    padding: 0;
+    margin: 0 0 0 20px;
+    list-style: decimal !important;
+    text-align: justify;
+}

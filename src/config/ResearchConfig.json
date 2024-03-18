@@ -1,0 +1,40 @@
+{
+    "section_title": "Our Research",
+    "description": "<b>Adsorption & Materials Research Group (AMRG)</b> is a research group that specializes in the <b>synthesis and design of porous materials for gas separation and catalyst</b>. Our team of expert researchers is dedicated to advancing the field of adsorption and materials research through innovative initiatives and groundbreaking discoveries. We work with a diverse range of clients, including academic institutions, government agencies, and private companies, to provide customized solutions to their unique needs.",
+    "description_list": [
+        "Zeolites, Carbon, Clay for Adsorption and Catalysis",
+        "Porous Materials for CO<sub>2</sub> Capture, Air Separation, and other Gas Mixture (CO/CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/O<sub>2</sub>/Ar) Separation",
+        "Porous Materials for Hydrogen and methane Storage",
+        "Equilibrium and Dynamic Adsorption Studies",
+        "Precipitated Silica for Rubber and Non-Rubber Applications",
+        "Zeolite-polymer composite Membrane for Gas Separation"
+    ],
+    "reseach_sections": [
+        {
+            "title": "Current Project",
+            "list": [
+                "Scale up studies for the Zeolites 13X Powder technology"
+            ]
+        },
+        {
+            "title": "Completed Project",
+            "list": [
+                "Development of Zeolite-based adsorbents for Oxygen concentrator from SERB (GAP- CVD/2021/000097). Funded by: SERB, New Delhi, Govt. of India.",
+                "Development of CO2 Selective Membranes and Adsorbents for Biogas Purification and Flue Gas Treatment' (MLP0054). Funded by: CSIR, New Delhi, Govt. of India'",
+                "Commercialization of PPT silica technology (CNP 1428) Funded by Industry"
+            ]
+        },
+        {
+            "title": "Patent",
+            "list": [
+                "Deshmukh, A.A.J., IN), Deshmukh, Sandip Sahebrao (Mumbai, IN), Salgaonkar, Sanket Shamsunder (Mumbai, IN), Sethia, Govind (Mandsaur, IN), ALUMINA AND ALUMINA EXTRUDATES AND PROCESS FOR  PREPARATION THEREOF. 2018, RELIANCE INDUSTRIES LIMITED (Mumbai, IN): United States."
+            ]
+        },
+        {
+            "title": "Book Chapter",
+            "list": [
+                "Hierarchical Mesoporous Zeolites: Synthesis and Characterization"
+            ]
+        }
+    ]
+}

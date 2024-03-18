@@ -1,0 +1,52 @@
+{
+    "section_title": "Publication",
+    "instructions": "Welcome to our <b>research papers section</b>. Here you can find our latest research papers related to <b>Adsorption and Materials</b>. Our group specializes in the synthesis and design of porous materials for gas separation and catalyst.<br /><br /> Click on the links below to access our research papers.",
+    "publications_list": [
+        {
+            "id": 1,
+            "title": "Sorption of carbon dioxide, methane, nitrogen and carbon monoxide on MIL-101(Cr): Volumetric measurements and dynamic adsorption studies",
+            "publication_date": "20/01/2022",
+            "image": "publication/publication_1.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894712005359",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": "https://www.google.com"
+                },
+                {
+                    "name": "Kuppusamy Munusamy",
+                    "url": ""
+                },
+                {
+                    "name": "Dinesh V. Patil",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Selective adsorption of carbon dioxide over nitrogen on calcined synthetic hectorites with tailor-made porosity",
+            "publication_date": "21/01/2022",
+            "image": "publication/publication_2.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169131709001598",
+            "people": [
+                {
+                    "name": "Radheshyam R. Pawar",
+                    "url": ""
+                },
+                {
+                    "name": "Hasmukh A. Patel",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": "http://www.google.com"
+                },
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}

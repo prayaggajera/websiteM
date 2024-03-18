@@ -1,0 +1,106 @@
+.home_main {
+    background: rgba(0, 0, 0, 0.7) url("../../assets/img2.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    height: calc(100vh - 80px);
+    color: var(--white-color);
+    padding: 0 1.5rem;
+}
+
+.home_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* border: 1px solid red; */
+}
+
+.home_head_line {
+    font-size: 45px;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+    color: var(--white-color);
+    text-align: center;
+}
+
+.home_head_line span {
+    color: var(--blue-color);
+    font-weight: bolder;
+    text-shadow: 0 0 10px #fff, 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff;
+}
+
+.home_head_sub_line {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.home_quick_link {
+    display: flex;
+    gap: 15px;
+}
+
+.link_button {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    padding: 1rem 1.5rem;
+    background-color: transparent;
+    border: 1px solid var(--white-color);
+    border-radius: 0.7rem;
+    font-size: 17px;
+    font-weight: 500;
+    transition: 0.3s;
+    color: var(--white-color);
+}
+
+.link_button:hover {
+    background-color: var(--white-color);
+    color: var(--blue-color);
+}
+
+.home__publication {
+    /* background-color: #f8f6f6; */
+}
+
+.publication:first-child{
+    border: none;
+}
+
+/* media query for mobile */
+
+@media only screen and (max-width: 600px) {
+    .header-section {
+        margin-top: 0 !important;
+    }
+
+    .home_main {
+        height: 100vh;
+    }
+
+    .home_head_line {
+        font-size: 30px;
+        text-align: center;
+        margin-bottom: 0.5rem;
+    }
+
+    .home_head_sub_line {
+        font-size: 22px;
+    }
+
+    .home_quick_link {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .link_button {
+        justify-content: center;
+        padding: 0.5rem 1rem;
+    }
+}

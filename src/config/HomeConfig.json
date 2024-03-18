@@ -1,0 +1,85 @@
+{
+    "head_line": "CSIR-Central Salt and Marine Chemicals Research Institute",
+    "sub_head_line": "ADSORPTION & MATERIAL RESEARCH GROUP",
+    "quick_links": [
+        {
+            "title": "About Us",
+            "url": "/about"
+        },
+        {
+            "title": "Explore Publications",
+            "url": "/publication"
+        }
+    ],
+    "research_section": {
+        "title": "Our Research",
+        "description": "At <b>Adsorption and Materials Research Group</b>, we focus on the development of new materials with improved adsorption properties for gas separation and catalyst applications. Our research is interdisciplinary and involves collaborations with scientists and engineers from around the world. We utilize state-of-the-art experimental and computational techniques to design and synthesize new materials and study their properties. Our goal is to make a positive impact on the environment and society through the development of sustainable and efficient technologies.",
+        "link": {
+            "title": "Explore More",
+            "url": "/research"
+        }
+    },
+    "publication_section": {
+        "title": "Our Publication",
+        "publication_list": [
+            {
+                "id": 1,
+                "title": "Sorption of carbon dioxide, methane, nitrogen and carbon monoxide on MIL-101(Cr): Volumetric measurements and dynamic adsorption studies",
+                "publication_date": "20/01/2022",
+                "image": "publication/publication_1.png",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894712005359",
+                "people": [
+                    {
+                        "name": "Govind Sethia",
+                        "url": "https://www.google.com"
+                    },
+                    {
+                        "name": "Kuppusamy Munusamy",
+                        "url": ""
+                    },
+                    {
+                        "name": "Dinesh V. Patil",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Selective adsorption of carbon dioxide over nitrogen on calcined synthetic hectorites with tailor-made porosity",
+                "publication_date": "21/01/2022",
+                "image": "publication/publication_2.png",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169131709001598",
+                "people": [
+                    {
+                        "name": "Radheshyam R. Pawar",
+                        "url": ""
+                    },
+                    {
+                        "name": "Hasmukh A. Patel",
+                        "url": ""
+                    },
+                    {
+                        "name": "Govind Sethia",
+                        "url": "http://www.google.com"
+                    },
+                    {
+                        "name": "Hari C. Bajaj",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "link": {
+            "title": "Explore More",
+            "url": "/publication"
+        }
+    },
+    "about_section": {
+        "title": "About CSIR-CSMCRI",
+        "description": "CSIR-CSMCRI stands for the <b>Council of Scientific and Industrial Research - Central Salt and Marine Chemicals Research Institute</b>. This institute is located in Bhavnagar, Gujarat, India. It is one of the constituent laboratories of the Council of Scientific and Industrial Research (CSIR), which is an autonomous body under the Government of India.",
+        "link": {
+            "title": "Explore More",
+            "url": "/about"
+        }
+    }
+}

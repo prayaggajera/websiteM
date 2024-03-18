@@ -1,0 +1,59 @@
+{
+    "section_title": "About CSIR-CSMCRI",
+    "about_csmcri": {
+        "para1": "CSIR-CSMCRI stands for the <b>Council of Scientific and Industrial Research - Central Salt and Marine Chemicals Research Institute</b>. This institute is located in Bhavnagar, Gujarat, India. It is one of the constituent laboratories of the Council of Scientific and Industrial Research (CSIR), which is an autonomous body under the Government of India.",
+        "para2": "<b>CSIR-CSMCRI</b> specializes in research and development activities related to salt and marine chemicals. The institute focuses on various aspects of marine chemistry, including the exploration of <b>marine resources for industrial applications, development of technologies for the sustainable utilization of marine resources, and environmental studies related to marine ecosystems.</b>",
+        "para3": "Research at CSIR-CSMCRI covers a wide range of areas, including <b>salt and marine chemicals, marine biology, environmental science, materials science, and more</b>. The institute collaborates with national and international research organizations and industries to promote scientific and technological advancements in the field of marine chemistry."
+    },
+    "team_title": "Adsorption & material research group",
+    "team": {
+        "para1": "<b>The Adsorption and Materials Research Group</b>, housed within the Inorganic Materials & Catalysis (IMC) division of CSIR-Central Salt & Marine Chemicals Research Institute (CSIR-CSMCRI).",
+        "para2": "The heart of our research endeavors lies a focus on materials synthesis, with a particular emphasis on <b>zeolites, precipitated silica, and carbon-based materials</b>. Zeolites, known for their well-defined porous structures and exceptional surface properties, are synthesized by the group to tailor their characteristics for <b>specific gas adsorption and separation applications</b>. The precise control over pore size, surface area, and surface chemistry allows for the customization of zeolite materials to efficiently adsorb and separate gases such as CO<sub>2</sub>, methane, hydrogen, and volatile organic compounds (VOCs).",
+        "para3": "In addition to zeolites, the group also specializes in the <b>synthesis of precipitated silica</b>, a versatile material with a wide range of applications in various <b>industries including rubber, plastics, coatings, and personal care products</b>. The group's expertise in the synthesis of high-purity and tailored precipitated silica materials contributes to advancements in these industries, particularly in the areas of <b>reinforcement, rheology modification, and functional additives.</b>",
+        "para4": "Furthermore, the group explores the synthesis and characterization of carbon-based materials such as <b>activated carbons and carbon nanomaterials for gas adsorption, separation, and catalytic applications</b>. These materials exhibit high surface areas, tunable pore structures, and unique surface chemistries, making them <b>highly effective for gas storage, purification, and catalysis.</b>",
+        "para5": "The research conducted by the Adsorption and Materials Research Group extends beyond materials synthesis to encompass <b>fundamental studies on the mechanisms of gas adsorption, diffusion, and separation processes</b>. Through a multidisciplinary approach combining experimental techniques and theoretical modeling, <b>the group aims to deepen the understanding of these processes and optimize the performance of materials for real-world applications.</b>"
+    },
+    "lab_title": "Our Lab Instruments",
+    "instrument_list": [
+        {
+            "image": "instrument/ins1.png",
+            "title": "Zetasizer (nano-ZS90)",
+            "description": "The Zetasizer Nano series is a range of instruments developed by Malvern Panalytical for the characterization of nanoparticles and colloids in solution. These instruments utilize dynamic light scattering (DLS), electrophoretic light scattering (ELS), and static light scattering (SLS) techniques to provide information about particle size distribution, zeta potential, molecular weight, and particle concentration in a sample."
+        },
+        {
+            "image": "instrument/ins2.png",
+            "title": "Ball milling",
+            "description": "Ball milling is a mechanical process that involves the use of a rotating container filled with heavy balls to reduce the size of particles. This technique is commonly used in the field of materials science and engineering for various purposes such as mechanical alloying, mixing, grinding, and homogenization of materials."
+        },
+        {
+            "image": "instrument/ins3.png",
+            "title": "Granulator",
+            "description": "Extruders, granulators, and spheronizers are important equipment used in pharmaceutical and chemical manufacturing processes for the production of granules or pellets with specific properties, including size, shape, and uniformity. Each of these machines plays a distinct role in the granulation process, and they are often used in combination to achieve the desired product characteristics."
+        },
+        {
+            "image": "instrument/ins4.png",
+            "title": "Spray Dryer",
+            "description": "Lab-scale spray dryers are valuable tools for researchers and scientists working in fields such as pharmaceuticals, food and beverage, ceramics, and materials science, where the production of dried powders or particles with controlled properties is essential for various applications."
+        },
+        {
+            "image": "instrument/ins5.png",
+            "title": "Ultrasonic",
+            "description": "Sonication, is a technique that utilizes high-frequency sound waves (ultrasound) to agitate and disrupt particles in a liquid medium. This process is commonly used in various scientific and industrial applications for purposes such as dispersing, mixing, emulsifying, degassing, and extracting."
+        },
+        {
+            "image": "instrument/ins6.png",
+            "title": "Adsorption analyzer",
+            "description": "Gas adsorption analyzers are valuable tools for characterizing the surface properties and porosity of solid materials, which are crucial for understanding their performance in various applications such as gas storage, catalysis, separation, and purification processes."
+        },
+        {
+            "image": "instrument/ins7.png",
+            "title": "Centrifuge",
+            "description": "Centrifuge is used to separate components of a liquid mixture based on their density and/or size by subjecting the mixture to centrifugal force. This force causes denser components to move towards the bottom of the centrifuge tube or container, while less dense components move towards the top."
+        },
+        {
+            "image": "instrument/ins8.png",
+            "title": "Hastelloy reactor",
+            "description": "Reactor with a working capacity  2 liters made of Hastelloy, used for scale-up studies of material synthesis, represents a specialized and crucial piece of equipment in chemical and materials science research and development."
+        }
+    ]
+}
