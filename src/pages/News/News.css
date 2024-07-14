@@ -13,7 +13,7 @@
 
 .publication {
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     flex-direction: row-reverse;
     gap: 25px;
     width: 100% !important;

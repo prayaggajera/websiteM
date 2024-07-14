@@ -4,30 +4,631 @@
     "publications_list": [
         {
             "id": 1,
-            "title": "Sorption of carbon dioxide, methane, nitrogen and carbon monoxide on MIL-101(Cr): Volumetric measurements and dynamic adsorption studies",
-            "publication_date": "20/01/2022",
+            "title": "Ruthenium-anchored aminated MWCNTs/polyaniline membrane electrode assembly for alkaline water splitting",
+            "publication_date": "01/02/2024",
             "image": "publication/publication_1.png",
-            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894712005359",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1572665724000031",
             "people": [
                 {
+                    "name": "Dimple K Bora",
+                    "url": ""
+                },
+                {
+                    "name": "Priyanka P. Bavadane",
+                    "url": ""
+                },
+                {
+                    "name": "Bhavana Bhatt",
+                    "url": ""
+                },
+                {
+                    "name": "Devendra Y. Nikumbe",
+                    "url": ""
+                },
+                {
                     "name": "Govind Sethia",
-                    "url": "https://www.google.com"
+                    "url": "https://scholar.google.com/citations?hl=en&user=uLRhYqsAAAAJ&view_op=list_works&sortby=pubdate"
                 },
                 {
-                    "name": "Kuppusamy Munusamy",
-                    "url": ""
-                },
-                {
-                    "name": "Dinesh V. Patil",
-                    "url": ""
+                    "name": "Rahjaram K Nagarale",
+                    "url": "https://scholar.google.com/citations?user=fBHTYTwAAAAJ&hl=th"
                 }
             ]
         },
         {
             "id": 2,
-            "title": "Selective adsorption of carbon dioxide over nitrogen on calcined synthetic hectorites with tailor-made porosity",
-            "publication_date": "21/01/2022",
+            "title": "Proton conducting zeolite composite membrane boosts the performance of vanadium redox flow battery",
+            "publication_date": "24/01/2024",
             "image": "publication/publication_2.png",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0167273823002758",
+            "people": [
+                {
+                    "name": "Chetan M Pawar",
+                    "url": ""
+                },
+                {
+                    "name": "Sooraj shreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Bhavana Bhatt",
+                    "url": ""
+                },
+                {
+                    "name": "Vidhiben Dave",
+                    "url": ""
+                },
+                {
+                    "name": "Nayanthara P.S",
+                    "url": ""
+                },
+                {
+                    "name": "Wasim F.G. Saleha",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": "http://www.google.com"
+                },
+                {
+                    "name": "Rahjaram K Nagarale",
+                    "url": "https://scholar.google.com/citations?user=fBHTYTwAAAAJ&hl=th"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Promoting effect of titanium on C―O hydrogenolysis of erythritol to 1,4-butanediol over Pt/W/Ti-SBA-15 catalysts",
+            "publication_date": "25/09/2023",
+            "image": "publication/publication_3.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0926860X23004052",
+            "people": [
+                {
+                    "name": "Susmita Bhowmic",
+                    "url": ""
+                },
+                {
+                    "name": "Venugopal Akula",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Banu Marimuthu",
+                    "url": ""
+                },
+                {
+                    "name": "Srinivas Darbha",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Sorption of Carbon Dioxide and Nitrogen on Porous Hyper-Cross-Linked Aromatic Polymers: Effect of Textural Properties, Composition, and Electrostatic Interactions",
+            "publication_date": "23/07/2023",
+            "image": "publication/publication_4.png",
+            "url": "https://pubs.acs.org/doi/full/10.1021/acsomega.2c07553",
+            "people": [
+                {
+                    "name": "Noufal Merukan Chola",
+                    "url": ""
+                },
+                {
+                    "name": "Prayag Gajera",
+                    "url": ""
+                },
+                {
+                    "name": "Harshal Kulkarni",
+                    "url": ""
+                },
+                {
+                    "name": "Gaurav Kumar",
+                    "url": ""
+                },
+                {
+                    "name": "Rahulbhai Parmar",
+                    "url": ""
+                },
+                {
+                    "name": "Rahjaram K Nagarale",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Insights into active tungsten species on Pt/W/SBA-15 catalysts for selective hydrodeoxygenation of glycerol to 1,3-propanediol",
+            "publication_date": "01/10/2022",
+            "image": "publication/publication_5.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S2468823122005909",
+            "people": [
+                {
+                    "name": "Susmita Bhowmik",
+                    "url": ""
+                },
+                {
+                    "name": "Nagasuresh Enjamuri",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Venugopal Akula",
+                    "url": ""
+                },
+                {
+                    "name": "Banu Marimuthu",
+                    "url": ""
+                },
+                {
+                    "name": "Srinivas Darbha",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Fabrication of Alkaline Electrolyzer Using Ni@MWCNT as an Effective Electrocatalyst and Composite Anion Exchange Membrane",
+            "publication_date": "27/04/2022",
+            "image": "publication/publication_6.png",
+            "url": "https://pubs.acs.org/doi/full/10.1021/acsomega.2c00070",
+            "people": [
+                {
+                    "name": "Dimple K. Bora",
+                    "url": ""
+                },
+                {
+                    "name": "Priyanka P. Bavdane",
+                    "url": ""
+                },
+                {
+                    "name": " Vidhiben Dave",
+                    "url": ""
+                },
+                {
+                    "name": " Sooraj Sreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Ashis Kumar Satpati",
+                    "url": ""
+                },
+                {
+                    "name": "Rahjaram K Nagarale",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Exploratory Study for the Utilization of Low-Grade Kachchh Bauxite and Its Prospects for Rare-Earth Elements",
+            "publication_date": "21/01/2022",
+            "image": "publication/publication_7.png",
+            "url": "https://link.springer.com/article/10.1007/s40831-021-00478-5",
+            "people": [
+                {
+                    "name": "Bhavana Mishra",
+                    "url": ""
+                },
+                {
+                    "name": "Dimple K. Bora",
+                    "url": ""
+                },
+                {
+                    "name": "Prayag Gajera",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Electro-osmotic flow of surfactant assisted zeta potential tuned silica frits",
+            "publication_date": "30/03/2022",
+            "image": "publication/publication_8.png",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2022/nj/d2nj00644h/unauth",
+            "people": [
+                {
+                    "name": "Vidhiben Dave",
+                    "url": ""
+                },
+                {
+                    "name": "Sooraj shreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Bhavana Mishra",
+                    "url": ""
+                },
+                {
+                    "name": "Gopala Ram Bhadu",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Rahjaram K Nagarale",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Selective, bifunctional Cu–WOx/Al2O3 catalyst for hydrodeoxygenation of fatty acids†",
+            "publication_date": "26/11/2019",
+            "image": "publication/publication_9.png",
+            "url": "https://pubs.rsc.org/en/content/articlehtml/2019/cy/c9cy01939a",
+            "people": [
+                {
+                    "name": "Sagar Janampelli",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Srinivas Darbha",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Alumina and alumina extrudates and process for preparation thereof",
+            "publication_date": "20/03/2018",
+            "image": "publication/publication_10.png",
+            "url": "https://patents.google.com/patent/US10576457B2/en?oq=US15918191",
+            "people": [
+                {
+                    "name": "Amit Arvind Deshmukh",
+                    "url": ""
+                },
+                {
+                    "name": "Sandip Sahebrao Deshmukh",
+                    "url": ""
+                },
+                {
+                    "name": "Sanket Shamsunder Salgaonkar",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Activated carbon with optimum pore size distribution for hydrogen storage",
+            "publication_date": "01/04/2016",
+            "image": "publication/publication_11.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008622315305145",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Abdelhamid Sayari",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Comprehensive study of ultra-microporous nitrogen-doped activated carbon for CO2 capture",
+            "publication_date": "01/01/2015",
+            "image": "publication/publication_12.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008622315004145",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Abdelhamid Sayari",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Adsorption of carbon monoxide, methane and nitrogen on alkaline earth metal ion exchanged zeolite-X: structure, cation position and adsorption relationship",
+            "publication_date": "12/01/2015",
+            "image": "publication/publication_13.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0008622315004145",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Rajesh S. Somani",
+                    "url": ""
+                },
+                {
+                    "name": "Hari Chand Bajaj",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Sorption of Methane and Nitrogen on Cesium Exchanged Zeolite-X: Structure, Cation Position and Adsorption Relationship",
+            "publication_date": "31/03/2014",
+            "image": "publication/publication_14.png",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/ie5002839",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Rajesh S. Somani",
+                    "url": ""
+                },
+                {
+                    "name": "Hari Chand Bajaj",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Nitrogen-Doped Carbons: Remarkably Stable Materials for CO2 Capture",
+            "publication_date": "12/03/2014",
+            "image": "publication/publication_1.png",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/ef500283e",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Abdelhamid Sayari",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Porous synthetic hectorites for selective adsorption of carbon dioxide over nitrogen, methane, carbon monoxide and oxygen",
+            "publication_date": "04/01/2014",
+            "image": "publication/publication_16.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169131714000386",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Hasmukh A. Patel",
+                    "url": ""
+                },
+                {
+                    "name": "Radheshyam R. Pawar",
+                    "url": ""
+                },               
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Synthesis of T-type zeolite nanoparticles for the separation of CO2/N2 and CO2/CH4 by adsorption process",
+            "publication_date": "18/08/2013",
+            "image": "publication/publication_17.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S138589471300884X",
+            "people": [
+                {
+                    "name": "Qiying Jiang",
+                    "url": ""
+                },
+                {
+                    "name": "Jeffrey Rentschler",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },               
+                {
+                    "name": "Steven Weinman",
+                    "url": ""
+                },
+                {
+                    "name": "Roger Perrone",
+                    "url": ""
+                },
+                {
+                    "name": "Kunlei Liu",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Sorption of carbon dioxide, methane, nitrogen and carbon monoxide on MIL-101(Cr): Volumetric measurements and dynamic adsorption studies",
+            "publication_date": "01/07/2012",
+            "image": "publication/publication_18.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894712005359",
+            "people": [
+                {
+                    "name": "Kuppusamy Munusamy",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Dinesh V. Patil",
+                    "url": ""
+                },               
+                {
+                    "name": "Phani B. Somayajulu Rallapalli",
+                    "url": ""
+                },
+                {
+                    "name": "Rajesh S. Somani",
+                    "url": ""
+                },
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Tin exchanged zeolite as catalyst for direct synthesis of α-amino nitriles under solvent-free conditions",
+            "publication_date": "29/03/2012",
+            "image": "publication/publication_19.png",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0926860X1200004X",
+            "people": [
+                {
+                    "name": "Arpan K Shah",
+                    "url": ""
+                },
+                {
+                    "name": "H Khan Noor-ul",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },               
+                {
+                    "name": "S Saravanan",
+                    "url": ""
+                },
+                {
+                    "name": "Rukhsana I Kureshy",
+                    "url": ""
+                },
+                {
+                    "name": "Sayed HR Abdi",
+                    "url": ""
+                },
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Sorption of CO, CH4, and N2 in Alkali Metal Ion Exchanged Zeolite-X: Grand Canonical Monte Carlo Simulation and Volumetric Measurements",
+            "publication_date": "10/05/2010",
+            "image": "publication/publication_20.png",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/ie901713m",
+            "people": [
+                {
+                    "name": "Renjith S. Pillai",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Raksh V. Jasra",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Sorption of Methane, Nitrogen, Oxygen, and Argon in ZSM-5 with different SiO2/Al2O3 Ratios: Grand Canonical Monte Carlo Simulation and Volumetric Measurements",
+            "publication_date": "29/01/2010",
+            "image": "publication/publication_21.png",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/ie900280w",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": " Renjith S Pillai",
+                    "url": ""
+                },
+                {
+                    "name": "Ganga P Dangi",
+                    "url": ""
+                },
+                {
+                    "name": "Rajesh S. Somani",
+                    "url": ""
+                },
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                },
+                {
+                    "name": "Raksh V. Jasra",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Equilibrium and dynamic adsorption of carbon monoxide and nitrogen on ZSM-5 with different SiO2/Al2O3 ratio",
+            "publication_date": "12/02/2010",
+            "image": "publication/publication_22.png",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/01496390903417990",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Ganga P Dangi",
+                    "url": ""
+                },
+                {
+                    "name": "Amit L Jetwani",
+                    "url": ""
+                },
+                {
+                    "name": "Rajesh S. Somani",
+                    "url": ""
+                },
+                {
+                    "name": "Hari C. Bajaj",
+                    "url": ""
+                },
+                {
+                    "name": "Raksh V. Jasra",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Selective adsorption of carbon dioxide over nitrogen on calcined synthetic hectorites with tailor-made porosity",
+            "publication_date": "01/09/2009",
+            "image": "publication/publication_23.png",
             "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169131709001598",
             "people": [
                 {
@@ -40,13 +641,13 @@
                 },
                 {
                     "name": "Govind Sethia",
-                    "url": "http://www.google.com"
+                    "url": ""
                 },
                 {
                     "name": "Hari C. Bajaj",
                     "url": ""
                 }
             ]
-        }
+        }     
     ]
 }

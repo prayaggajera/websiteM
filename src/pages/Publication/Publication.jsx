@@ -17,8 +17,8 @@ const Publication = () => {
                     <div className="publications">
                         <div className="instructions" dangerouslySetInnerHTML={{ __html: PublicationConfig?.instructions }}></div>
                         {
-                            PublicationConfig?.publications_list?.map(publication => (
-                                <div key={publication.id} className="publication">
+                            PublicationConfig?.publications_list?.map((publication, index) => (
+                                <div key={index} className="publication">
                                     <div className="left">
                                         <Link target='_blank' to={publication?.url}><h3>{publication?.title}</h3></Link>
                                         <p>Publication date: <b>{publication?.publication_date}</b></p>

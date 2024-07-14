@@ -1,8 +1,8 @@
 {
     "section_title": "Our Research",
-    "description": "<b>Adsorption & Materials Research Group (AMRG)</b> is a research group that specializes in the <b>synthesis and design of porous materials for gas separation and catalyst</b>. Our team of expert researchers is dedicated to advancing the field of adsorption and materials research through innovative initiatives and groundbreaking discoveries. We work with a diverse range of clients, including academic institutions, government agencies, and private companies, to provide customized solutions to their unique needs.",
+    "description": "<b>Adsorption & Materials Research Group (AMRG)</b> specializes in the <b>synthesis and design of porous materials for gas separation and catalyst</b>. Our team of expert researchers is dedicated to advancing the field of adsorption and materials research through innovative initiatives and groundbreaking discoveries. We work with a diverse range of clients, including academic institutions, government agencies, and private companies, to provide customized solutions to their unique needs.",
     "description_list": [
-        "Zeolites, Carbon, Clay for Adsorption and Catalysis",
+       "Zeolites, Carbon, Clay for Adsorption and Catalysis Applications",
         "Porous Materials for CO<sub>2</sub> Capture, Air Separation, and other Gas Mixture (CO/CO<sub>2</sub>/CH<sub>4</sub>/N<sub>2</sub>/O<sub>2</sub>/Ar) Separation",
         "Porous Materials for Hydrogen and methane Storage",
         "Equilibrium and Dynamic Adsorption Studies",
@@ -11,9 +11,10 @@
     ],
     "reseach_sections": [
         {
-            "title": "Current Project",
+            "title": "On-going Projects",
             "list": [
-                "Scale up studies for the Zeolites 13X Powder technology"
+                "Scale up studies for the Zeolites 13X Powder technology Funded by NALCO Industries",
+                "Speciality chemical for Industrial Applications Funded by CSIR"
             ]
         },
         {

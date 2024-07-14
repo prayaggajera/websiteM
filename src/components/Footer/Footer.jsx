@@ -47,7 +47,7 @@ const Footer = (props) => {
             <Divider />
             <div className="below_footer">
                 <p className="copyright">{HeaderFooterConfig?.copyright}</p>
-                <p className='made_by'>Made with ❤️ by <Link to={HeaderFooterConfig?.made_by?.url}><b>{HeaderFooterConfig?.made_by?.name}</b></Link></p>
+                <p className='made_by'>designed by <Link to={HeaderFooterConfig?.made_by?.url}><b>{HeaderFooterConfig?.made_by?.name}</b></Link></p>
             </div>
 
         </>
