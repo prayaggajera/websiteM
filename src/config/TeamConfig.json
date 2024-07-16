@@ -44,7 +44,7 @@
         {
             "id": 5,
             "name": "Rahul Parmar",
-            "designation": "CSIR-JRF",
+            "designation": "UGC-JRF",
             "description": "Rahul Parmar is a distinguished scholar who was awarded the UGC-JRF in the year 2022, a prestigious recognition of his outstanding academic achievements and research potential. He holds a Master of Science degree in Inorganic Chemistry from SP University, where he demonstrated a keen intellect and deep understanding of the principles governing inorganic compounds. Rahul's dedication to his field is evident through his pursuit of advanced studies and his commitment to research excellence. With the UGC-JRF accolade, Rahul is poised to make significant contributions to the field of inorganic chemistry, furthering our understanding and application of these fundamental compounds. His passion for scientific inquiry and academic rigor positions him as a valuable asset to the scientific community and a promising researcher in his field.",
             "image": "team/team_member_5.png",
             "google": "",
@@ -54,7 +54,7 @@
         {
             "id": 6,
             "name": "Vatsal Shah",
-            "designation": "UGC-JRF",
+            "designation": "CSIR-JRF",
             "description": "",
             "image": "team/team_member_6.jpg",
             "google": "",
@@ -65,10 +65,20 @@
             "id": 7,
             "name": "Sagnik Mukherjee",
             "designation": "Project Associate",
-            "description": "",
+            "description": "Sagnik Mukherjee is a Project Associate-II at the CSIR-Central Salt and Marine Chemicals Research Institute (CSMCRI) in Bhavnagar, Gujarat, India. Specializing in porous materials, Sagnik focuses on surface engineering, heterogeneous catalysis, photocatalysis, and gas adsorption and separation. His research activity includes developing surface engineered metal-organic frameworks, pore modification of zeolites, and producing biomass-derived activated carbons for industrial use. Sagnik, published his research in esteemed journals like, Surface and Interface, Microporous and Mesoporous Materials, Catalysis Letters etc., contributing significantly to both environmental and industrial applications.",
             "image": "team/team_member_7.jpg",
             "google": "",
             "linkedin": "https://www.linkedin.com/in/sagnik-mukherjee-04b276ba/?originalSubdomain=de",
+            "facebook": ""
+        },
+        {
+            "id": 8,
+            "name": "Chandresh R. Bari",
+            "designation": "Project Associate",
+            "description": "",
+            "image": "team/team_member_8.jpg",
+            "google": "",
+            "linkedin": "",
             "facebook": ""
         }
     ]
