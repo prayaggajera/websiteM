@@ -47,7 +47,32 @@ const Team = () => {
                             </div>
                         ))}
                     </div>
+                </div>
 
+                <br />
+
+                <div className="container">
+                    <h3 className='section__title'>{TeamConfig?.section_second_title}</h3>
+
+                    <div className="team">
+                        {TeamConfig?.alumni_members?.map(member => (
+                            <div key={member.id} className="team-member">
+                                <div className="team-left">
+                                    <img src={require(`../../assets/${member?.image}`)} alt={member?.name} />
+                                </div>
+                                <div className="team-right">
+                                    <h3><b>{member?.name}</b> <span>({member?.designation})</span></h3>
+                                    <Divider />
+                                    <div className="social-icons">
+                                        <li><Link to={member?.google} target='_blank'><GoogleIcon sx={{ fontSize: "25px" }} /></Link></li>
+                                        <li><Link to={member?.facebook} target='_blank'><FacebookIcon sx={{ fontSize: "25px" }} /></Link></li>
+                                        <li><Link to={member?.linkedin} target='_blank'><LinkedInIcon sx={{ fontSize: "25px" }} /></Link></li>
+                                    </div>
+                                    <p>{expandedDescriptions[member.id] ? member?.description : `${member?.description.substring(0, 250)}...`} <span><span className='read-more' onClick={() => toggleDescription(member.id)}>{expandedDescriptions[member.id] ? 'read less' : 'read more'}</span></span></p>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
                 </div>
             </div>
         </>

@@ -46,7 +46,7 @@ const Footer = (props) => {
             </footer>
             <Divider />
             <div className="below_footer">
-                <p className="copyright">{HeaderFooterConfig?.copyright}</p>
+                <p className="copyright">copyright &copy; {new Date().getFullYear()} CSIR-CSMCRI. All rights reserved.</p>
                 <p className='made_by'>designed by <Link to={HeaderFooterConfig?.made_by?.url}><b>{HeaderFooterConfig?.made_by?.name}</b></Link></p>
             </div>
 
