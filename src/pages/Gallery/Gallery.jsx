@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import './Gallery.css'
 import GalleryConfig from '../../config/GalleryConfig.json'
-import { Divider } from '@mui/material'
 
 
 const Gallery = () => {
