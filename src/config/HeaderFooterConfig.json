@@ -24,6 +24,10 @@
         {
             "title": "News",
             "url": "/news"
+        },
+        {
+            "title": "Gallery",
+            "url": "/gallery"
         }
     ],
     "footer_headline": "CSIR-Central Salt and Marine Chemicals Research Institute",
