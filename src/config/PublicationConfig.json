@@ -3,257 +3,6 @@
     "instructions": "Welcome to our <b>research papers section</b>. Here you can find our latest research papers related to <b>Adsorption and Materials</b>. Our group specializes in the synthesis and design of porous materials for gas separation and catalyst.<br /><br /> Click on the links below to access our research papers.",
     "publications_list": [
         {
-            "id": 31,
-            "title": "An electro-osmotic flow device featuring electroactive pyrene encapsulated different types of carbon matrices",
-            "publication_date": "05/05/2025",
-            "image": "",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0019452225000767",
-            "people": [
-                {
-                    "name": "Vidhiben Dave",
-                    "url": ""
-                },
-                {
-                    "name": "Bhavana Bhatt",
-                    "url": ""
-                },
-                {
-                    "name": "Sooraj Sreenath",
-                    "url": ""
-                },
-                {
-                    "name": "Devendra Y. Nikumbe ",
-                    "url": ""
-                },
-                {
-                    "name": "Harshal Kulkarni",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                },
-                {
-                    "name": "Rajaram K. Nagarale",
-                    "url": ""
-                }
-            ]
-        },
-        {
-            "id": 30,
-            "title": "Size-tuned silver nanoparticles by a non-gassing electro-osmotic pump-driven microfluidic device",
-            "publication_date": "05/05/2025",
-            "image": "",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0019452225000767",
-            "people": [
-                {
-                    "name": "Vidhiben Dave",
-                    "url": ""
-                },
-                {
-                    "name": "Sooraj Sreenath",
-                    "url": ""
-                },
-                {
-                    "name": "Gopala Ram Bhadu",
-                    "url": ""
-                },
-                {
-                    "name": "Nitin G. Borle",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                },
-                                {
-                    "name": "Rajaram K. Nagarale",
-                    "url": ""
-                }
-            ]
-        },
-        {
-            "id": 29,
-            "title": "Bismuth doped g-C3N4 composites for enhanced photocatalytic degradation of ciprofloxacin",
-            "publication_date": "05/02/2025",
-            "image": "",
-            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
-            "people": [
-                {
-                    "name": "Pooja Saini",
-                    "url": ""
-                },
-                {
-                    "name": " Khadijeh Ahmadizamani",
-                    "url": ""
-                },
-                {
-                    "name": " Nandana Chakinala",
-                    "url": ""
-                },
-                {
-                    "name": "Sagnik Mukherjee",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                },
-                                {
-                    "name": "Anand Gupta Chakinala",
-                    "url": ""
-                },
-                {
-                    "name": "Praveen K Surolia",
-                    "url": ""
-                }
-        
-            ]
-        },
-        {
-            "id": 28,
-            "title": "Vanadium-encased zeolite based mixed matrix membrane for high-performance all-vanadium redox flow battery",
-            "publication_date": "10/04/2025",
-            "image": "",
-            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
-            "people": [
-                {
-                    "name": "Chetan M Pawar",
-                    "url": ""
-                },
-                {
-                    "name": "Rahulbhai Parmar",
-                    "url": ""
-                },
-                {
-                    "name": "Sooraj Sreenath",
-                    "url": ""
-                },
-                {
-                    "name": "Jayesh C Chaudhari",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                }
-        
-            ]
-        },
-        {
-            "id": 27,
-            "title": "Waste biomass-derived activated carbons for selective oxygen adsorption",
-            "publication_date": "17/12/2024",
-            "image": "",
-            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
-            "people": [
-                {
-                    "name": "Harshal Kulkarni",
-                    "url": ""
-                },
-                {
-                    "name": "Chandresh Bari",
-                    "url": ""
-                },
-                {
-                    "name": "Sagnik Mukherjee",
-                    "url": ""
-                },
-                {
-                    "name": "Prayag Gajera",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                }
-        
-            ]
-        },
-        {
-            "id": 26,
-            "title": "Sustainable Sunlight and UV-Driven Photocatalytic Degradation of Methylene Blue by Employing Cellulose/GO/TiO2–Bi Composite Material",
-            "publication_date": "05/08/2024",
-            "image": "",
-            "url": "https://link.springer.com/article/10.1007/s13369-024-09297-8",
-            "people": [
-                {
-                    "name": "Maneesh Kumar",
-                    "url": ""
-                },
-                {
-                    "name": "Praveen K Surolia",
-                    "url": ""
-                },
-                {
-                    "name": "Saurav Mishra",
-                    "url": ""
-                },
-                {
-                    "name": "Kanchan Guru",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                },
-                {
-                    "name": "Hardik B Bhatt",
-                    "url": ""
-                },
-                {
-                    "name": "Anand G Chakinala",
-                    "url": ""
-                },
-                {
-                    "name": "Gayatri Prasad",
-                    "url": ""
-                }
-            ]
-        },
-         {
-            "id": 25,
-            "title": "Enhanced photocatalytic performance of Bi-doped TiO2 under sunlight and UV light: mechanistic insights and comparative analysis",
-            "publication_date": "15/07/2024",
-            "image": "publication/publication_1.png",
-            "url": "https://link.springer.com/article/10.1007/s43630-024-00609-3",
-            "people": [
-                {
-                    "name": "Saurav Mishra",
-                    "url": ""
-                },
-                {
-                    "name": "Nandana Chakinala",
-                    "url": ""
-                },
-                {
-                    "name": "Govind Sethia",
-                    "url": ""
-                },
-                {
-                    "name": "Anand G Chakinala",
-                    "url": ""
-                },
-                {
-                    "name": "Praveen K Surolia",
-                    "url": ""
-                }
-            ]
-        },
-        {
-            "id": 24,
-            "title": "A PROCESS FOR THE PREPARATION OF ZEOLITE-X",
-            "publication_date": "07/06/2024",
-            "image": "",
-            "url": "",
-            "people": [
-                {
-                    "name": "Govind Sethia",
-                    "url": "https://scholar.google.com/citations?hl=en&user=uLRhYqsAAAAJ&view_op=list_works&sortby=pubdate"
-                }
-            ]
-        },
-        {
             "id": 1,
             "title": "Ruthenium-anchored aminated MWCNTs/polyaniline membrane electrode assembly for alkaline water splitting",
             "publication_date": "01/02/2024",
@@ -899,6 +648,257 @@
                     "url": ""
                 }
             ]
-        }     
+        },
+        {
+            "id": 24,
+            "title": "An electro-osmotic flow device featuring electroactive pyrene encapsulated different types of carbon matrices",
+            "publication_date": "05/05/2025",
+            "image": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0019452225000767",
+            "people": [
+                {
+                    "name": "Vidhiben Dave",
+                    "url": ""
+                },
+                {
+                    "name": "Bhavana Bhatt",
+                    "url": ""
+                },
+                {
+                    "name": "Sooraj Sreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Devendra Y. Nikumbe ",
+                    "url": ""
+                },
+                {
+                    "name": "Harshal Kulkarni",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Rajaram K. Nagarale",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Size-tuned silver nanoparticles by a non-gassing electro-osmotic pump-driven microfluidic device",
+            "publication_date": "05/05/2025",
+            "image": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0019452225000767",
+            "people": [
+                {
+                    "name": "Vidhiben Dave",
+                    "url": ""
+                },
+                {
+                    "name": "Sooraj Sreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Gopala Ram Bhadu",
+                    "url": ""
+                },
+                {
+                    "name": "Nitin G. Borle",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                                {
+                    "name": "Rajaram K. Nagarale",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Bismuth doped g-C3N4 composites for enhanced photocatalytic degradation of ciprofloxacin",
+            "publication_date": "05/02/2025",
+            "image": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
+            "people": [
+                {
+                    "name": "Pooja Saini",
+                    "url": ""
+                },
+                {
+                    "name": " Khadijeh Ahmadizamani",
+                    "url": ""
+                },
+                {
+                    "name": " Nandana Chakinala",
+                    "url": ""
+                },
+                {
+                    "name": "Sagnik Mukherjee",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                                {
+                    "name": "Anand Gupta Chakinala",
+                    "url": ""
+                },
+                {
+                    "name": "Praveen K Surolia",
+                    "url": ""
+                }
+        
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Vanadium-encased zeolite based mixed matrix membrane for high-performance all-vanadium redox flow battery",
+            "publication_date": "10/04/2025",
+            "image": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
+            "people": [
+                {
+                    "name": "Chetan M Pawar",
+                    "url": ""
+                },
+                {
+                    "name": "Rahulbhai Parmar",
+                    "url": ""
+                },
+                {
+                    "name": "Sooraj Sreenath",
+                    "url": ""
+                },
+                {
+                    "name": "Jayesh C Chaudhari",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+        
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Waste biomass-derived activated carbons for selective oxygen adsorption",
+            "publication_date": "17/12/2024",
+            "image": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2667056924000798",
+            "people": [
+                {
+                    "name": "Harshal Kulkarni",
+                    "url": ""
+                },
+                {
+                    "name": "Chandresh Bari",
+                    "url": ""
+                },
+                {
+                    "name": "Sagnik Mukherjee",
+                    "url": ""
+                },
+                {
+                    "name": "Prayag Gajera",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+        
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Sustainable Sunlight and UV-Driven Photocatalytic Degradation of Methylene Blue by Employing Cellulose/GO/TiO2–Bi Composite Material",
+            "publication_date": "05/08/2024",
+            "image": "",
+            "url": "https://link.springer.com/article/10.1007/s13369-024-09297-8",
+            "people": [
+                {
+                    "name": "Maneesh Kumar",
+                    "url": ""
+                },
+                {
+                    "name": "Praveen K Surolia",
+                    "url": ""
+                },
+                {
+                    "name": "Saurav Mishra",
+                    "url": ""
+                },
+                {
+                    "name": "Kanchan Guru",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Hardik B Bhatt",
+                    "url": ""
+                },
+                {
+                    "name": "Anand G Chakinala",
+                    "url": ""
+                },
+                {
+                    "name": "Gayatri Prasad",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Enhanced photocatalytic performance of Bi-doped TiO2 under sunlight and UV light: mechanistic insights and comparative analysis",
+            "publication_date": "15/07/2024",
+            "image": "publication/publication_1.png",
+            "url": "https://link.springer.com/article/10.1007/s43630-024-00609-3",
+            "people": [
+                {
+                    "name": "Saurav Mishra",
+                    "url": ""
+                },
+                {
+                    "name": "Nandana Chakinala",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                },
+                {
+                    "name": "Anand G Chakinala",
+                    "url": ""
+                },
+                {
+                    "name": "Praveen K Surolia",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "title": "A PROCESS FOR THE PREPARATION OF ZEOLITE-X",
+            "publication_date": "07/06/2024",
+            "image": "",
+            "url": "",
+            "people": [
+                {
+                    "name": "Govind Sethia",
+                    "url": "https://scholar.google.com/citations?hl=en&user=uLRhYqsAAAAJ&view_op=list_works&sortby=pubdate"
+                }
+            ]
+        }    
     ]
 }
