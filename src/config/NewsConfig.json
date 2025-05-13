@@ -7,6 +7,13 @@
             "date": "2025-04-21",
             "description": "We are delighted to announce that Ms. Dimple Bora has successfully completed her Ph.D. Her dedication, hard work, and perseverance throughout this academic journey have been truly commendable. This remarkable achievement reflects her commitment to research excellence and academic growth. We extend our heartfelt congratulations to Dr. Dimple Bora and wish her continued success in all her future endeavors. ",
             "image": "news/news_1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Dr. Govind Sethia Receives IAAM Young Scientist Award 2024",
+            "date": "",
+            "description": "Congratulations to Dr. Govind Sethia for being honored with the IAAM Young Scientist Award 2024 by the International Association of Advanced Materials. This prestigious recognition celebrates his outstanding contributions to the field of porous materials, particularly in the development of advanced adsorbents and catalysts for energy and environmental applications. ",
+            "image": "news/news_2.jpeg"
         }
     ]
 }
