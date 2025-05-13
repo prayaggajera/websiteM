@@ -10,6 +10,61 @@
             "id": 2,
             "description": "",
             "image": "gallery/gallery_2.jpg"
+        },
+        {
+            "id": 3,
+            "description": "",
+            "image": "gallery/gallery_3.jpeg"
+        },
+        {
+            "id": 4,
+            "description": "",
+            "image": "gallery/gallery_4.jpeg"
+        },
+        {
+            "id": 5,
+            "description": "",
+            "image": "gallery/gallery_10.jpeg"
+        },
+        {
+            "id": 6,
+            "description": "",
+            "image": "gallery/gallery_6.jpeg"
+        },
+        {
+            "id": 7,
+            "description": "",
+            "image": "gallery/gallery_7.jpeg"
+        },
+        {
+            "id": 8,
+            "description": "",
+            "image": "gallery/gallery_8.jpeg"
+        },
+        {
+            "id": 9,
+            "description": "",
+            "image": "gallery/gallery_9.jpeg"
+        },
+        {
+            "id": 10,
+            "description": "",
+            "image": "gallery/gallery_11.jpeg"
+        },
+        {
+            "id": 11,
+            "description": "",
+            "image": "gallery/gallery_12.jpeg"
+        },
+        {
+            "id": 12,
+            "description": "",
+            "image": "gallery/gallery_13.jpeg"
+        },
+        {
+            "id": 13,
+            "description": "",
+            "image": "gallery/gallery_14.jpeg"
         }
     ]
 }
