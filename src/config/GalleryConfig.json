@@ -3,68 +3,68 @@
     "gallery_list": [
         {
             "id": 1,
-            "description": "",
+            "description": "A memorable evening shared with colleagues and mentors during our group dinner with Dr. Rajesh Somani — celebrating conversation, camaraderie, and moments beyond the lab.",
             "image": "gallery/gallery_1.jpg"
         },
         {
-            "id": 2,
-            "description": "",
-            "image": "gallery/gallery_2.jpg"
-        },
-        {
             "id": 3,
-            "description": "",
+            "description": "A special evening marked by a heartfelt gift and dinner party in honor of Dr. Dimple Bora, celebrating the successful completion of her PhD. Wishing her continued success in all future endeavors",
             "image": "gallery/gallery_3.jpeg"
         },
         {
             "id": 4,
-            "description": "",
+            "description": "A successful demonstration of the Zeolite-X synthesis process at a 15 kg batch scale was conducted for NALCO (National Aluminium Company Limited).",
             "image": "gallery/gallery_4.jpeg"
         },
         {
             "id": 5,
-            "description": "",
+            "description": "A joyful celebration of Raksha Bandhan with lab members, cherishing the spirit of unity, respect, and camaraderie in our research family.",
             "image": "gallery/gallery_10.jpeg"
         },
         {
             "id": 6,
-            "description": "",
+            "description": "Dr. Sethia shared key insights on the design and application of porous materials during his presentation at the prestigious Advanced Materials Congress in Jodhpur.",
             "image": "gallery/gallery_6.jpeg"
         },
         {
             "id": 7,
-            "description": "",
+            "description": "A cheerful celebration with the team as we marked Harshal’s birthday in the lab — a moment of joy, cake, and camaraderie amidst our research work.",
             "image": "gallery/gallery_7.jpeg"
         },
         {
             "id": 8,
-            "description": "",
+            "description": "A delightful evening spent with our guide and their family — sharing good food, meaningful conversations, and cherished moments beyond the lab.",
             "image": "gallery/gallery_8.jpeg"
         },
         {
             "id": 9,
-            "description": "",
+            "description": "A joyful celebration filled with laughter, good wishes, and sweet moments as we celebrated Chandresh’s birthday with the team.",
             "image": "gallery/gallery_9.jpeg"
         },
         {
             "id": 10,
-            "description": "",
+            "description": "Capturing a memorable moment with the team after a refreshing tea break at CSMCRI — celebrating teamwork and camaraderie.",
             "image": "gallery/gallery_11.jpeg"
         },
         {
             "id": 11,
-            "description": "",
+            "description": "Dr. Sethia Delivers Talk at National Conference on Emerging Technologies in Chemistry & Their Applications at Government College, Shirohi",
             "image": "gallery/gallery_12.jpeg"
         },
         {
-            "id": 12,
-            "description": "",
-            "image": "gallery/gallery_13.jpeg"
+            "id": 13,
+            "description": "A memorable trip to Lothal, one of the most prominent archaeological sites of the Indus Valley Civilization, where we explored its ancient dockyard and learned about the bead-making process. A wonderful day spent learning and bonding with the team.",
+            "image": "gallery/gallery_14.jpeg"
         },
         {
-            "id": 13,
-            "description": "",
-            "image": "gallery/gallery_14.jpeg"
+            "id": 14,
+            "description": "Mr. Sagnik Present a Paper on Waste Biomass-Derived Activated Carbon for Selective Oxygen Adsorption at 7th International Oil and Gas Chemistry, Chemical, and Additives Conference, 26-27 Sept., Delhi",
+            "image": "gallery/gallery_16.jpeg"
+        },
+        {
+            "id": 15,
+            "description": "Mr. Sagnik Presents Poster on Metal Ion-Exchange Zeolite for Tandom Reaction of Alcohol to Imines at HECAT-2024, MSU Baroda",
+            "image": "gallery/gallery_17.jpeg"
         }
     ]
 }
