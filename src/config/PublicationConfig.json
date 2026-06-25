@@ -2,7 +2,61 @@
     "section_title": "Publication",
     "instructions": "Welcome to our <b>research papers section</b>. Here you can find our latest research papers related to <b>Adsorption and Materials</b>. Our group specializes in the synthesis and design of porous materials for gas separation and catalyst.<br /><br /> Click on the links below to access our research papers.",
     "publications_list": [
+        {
+            "id": 32,
+            "title": "Ion-exchange sequence-driven control of CO2 adsorption and CO2/N2 selectivity in zeolite-X",
+            "publication_date": "12/04/2026",
+            "image": "publication/publication_33.png",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0020169326001453",
+            "people": [
                 {
+                    "name": "Prayag Gajera",
+                    "url": ""
+                },
+                {
+                    "name": "Sagnik Mukherjee",
+                    "url": ""
+                },
+                {
+                    "name": "Harshal Kulkarni",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+            ]
+            },
+            {
+            "id": 31,
+            "title": "Comparative mechanistic study of nitrogen-and oxygen-functionalized activated carbons for dual-phase adsorption",
+            "publication_date": "19/11/2025",
+            "image": "publication/publication_31.png",
+            "url": "https://pubs.rsc.org/en/content/articlehtml/2026/nj/d5nj03430b",
+            "people": [
+                {
+                    "name": "Chandresh Bari",
+                    "url": ""
+                },
+                {
+                    "name": "Sagnik Mukherjee",
+                    "url": ""
+                },
+                {
+                    "name": "Harshal Kulkarni",
+                    "url": ""
+                },
+                {
+                    "name": "Rahulbhai Parmar",
+                    "url": ""
+                },
+                {
+                    "name": "Govind Sethia",
+                    "url": ""
+                }
+            ]
+            },
+            {
             "id": 30,
             "title": "An electro-osmotic flow device featuring electroactive pyrene encapsulated different types of carbon matrices",
             "publication_date": "01/06/2025",
